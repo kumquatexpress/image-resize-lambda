@@ -1,0 +1,17 @@
+{
+  "name": "hc-image-resize",
+  "version": "0.0.5",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "blockhash": "github:kumquatexpress/blockhash-js#master",
+    "image-type": "^3.0.0",
+    "jpeg-js": "^0.3.3",
+    "request": "^2.88.0",
+    "pngjs": "3.3.3",
+    "sharp": "^0.17.3"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.342.0"
+  }
+}
